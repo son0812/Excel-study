@@ -1,6 +1,6 @@
 ### 일잘러의 무기가 되는 엑셀 대시보드 학습 정리
 
-<img width="60%" alt="image" src="https://github.com/user-attachments/assets/5c354575-5fbf-418a-abe5-ce4d2e9b6e4e" />
+<img width="40%" alt="image" src="https://github.com/user-attachments/assets/5c354575-5fbf-418a-abe5-ce4d2e9b6e4e" />
 
 한빛미디어의 『일잘러의 무기가 되는 엑셀 대시보드』를 학습하며  
 개인적으로 중요하다고 느낀 내용과 실습 과정에서 배운 점들을 정리했습니다.
